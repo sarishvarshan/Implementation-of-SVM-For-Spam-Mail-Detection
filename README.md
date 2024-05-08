@@ -25,7 +25,6 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by: Sarish Varshan V
 RegisterNumber: 212223230196 
 */
-```
 import chardet
 file='spam.csv'
 with open(file, 'rb') as rawdata:
@@ -53,7 +52,7 @@ from sklearn import metrics
 accuracy=metrics.accuracy_score(Y_test,Y_pred)
 accuracy
 Program to implement the SVM For Spam Mail Detection.
-```
+
 
 ## Output:
 ### result output:
