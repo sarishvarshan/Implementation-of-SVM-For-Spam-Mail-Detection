@@ -32,7 +32,7 @@ with open(file, 'rb') as rawdata:
 result = chardet.detect(rawdata.read(100000))
 result
 import pandas as pd
-data = pd.read_csv("")
+data = pd.read_csv("C:\Users\giri9\OneDrive\Documents\spam.csv")
 data.head()
 data.info()
 data.isnull().sum()
