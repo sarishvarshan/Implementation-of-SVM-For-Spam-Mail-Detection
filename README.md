@@ -52,10 +52,11 @@ from sklearn import metrics
 accuracy=metrics.accuracy_score(Y_test,Y_pred)
 accuracy
 Program to implement the SVM For Spam Mail Detection.
+```
 
 
 ## Output:
-### result output:
+## result output:
 ![image](https://github.com/sarishvarshan/Implementation-of-SVM-For-Spam-Mail-Detection/assets/152167665/8b10d6d9-11b2-418a-808a-38ec6b123c0e)
 ### data.head()
 ![image](https://github.com/sarishvarshan/Implementation-of-SVM-For-Spam-Mail-Detection/assets/152167665/9bb9e702-02e8-48c5-947e-727951f99a7f)
